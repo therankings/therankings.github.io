@@ -74,3 +74,9 @@ h2 {
   content:url("https://therankings.github.io/favicon.png");
   margin-right: 8px;
 }
+
+p {
+  font-size:20px;
+  font-weight:700;
+    margin:8px;
+}
